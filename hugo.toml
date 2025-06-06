@@ -1,0 +1,14 @@
+# This site was generated using the information available here: https://gohugo.io/getting-started/quick-start/
+# Using the deploy to github here: https://gohugo.io/host-and-deploy/host-on-github-pages/
+# Domain was verified using this: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages
+# The Domain Name was added to Github Pages in the repo using this: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+# HTTPS redirect was enabled/troubleshooted using this: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
+
+baseURL = 'https://blog.sadaka.me/'
+languageCode = 'en-us'
+title = 'Personal Blog for Bernard Sadaka (SDKAAA)'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

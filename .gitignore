@@ -1,0 +1,8 @@
+# hugo
+.hugo_build.lock
+public/
+resources/
+
+# i18n
+i18n/*
+!i18n/en.yaml
