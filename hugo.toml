@@ -2,3 +2,7 @@ baseURL = 'https://blog.sadaka.me/'
 languageCode = 'en-us'
 title = 'Personal Blog for Bernard Sadaka (SDKAAA)'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
